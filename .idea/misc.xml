@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Vlad/AndroidStudioProjects/GuessMyNumber/app/src/main/res/drawable/background_circle_blue.xml" value="0.25833333333333336" />
-        <entry key="..\:/Users/Vlad/AndroidStudioProjects/GuessMyNumber/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/Vlad/AndroidStudioProjects/GuessMyNumber/app/src/main/res/drawable/ic_baseline_arrow_downward_24.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Vlad/AndroidStudioProjects/GuessMyNumber/app/src/main/res/drawable/ic_baseline_arrow_upward_24.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Vlad/AndroidStudioProjects/GuessMyNumber/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Vlad/AndroidStudioProjects/GuessMyNumber/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>
   </component>
